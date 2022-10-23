@@ -1,0 +1,22 @@
+{
+  "name": "codechallenge_fileupload_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshmipgaddam/codechallenge_fileupload_tests.git"
+  },
+  "author": "Lakshmi Prasanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshmipgaddam/codechallenge_fileupload_tests/issues"
+  },
+  "homepage": "https://github.com/lakshmipgaddam/codechallenge_fileupload_tests#readme",
+  "dependencies": {
+    "cypress": "^10.10.0"
+  }
+}
